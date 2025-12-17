@@ -1,0 +1,7 @@
+{
+  "name": "Gesture Control Presentation Tool",
+  "description": "A professional presentation tool that uses MediaPipe for hand-gesture controlled slide navigation and supports PPTX file parsing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
